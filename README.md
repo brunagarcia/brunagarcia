@@ -1,16 +1,17 @@
 ## Oh hi, hello there 👋
 
-👩🏻‍💻 I’m currently working [@unbounce](https://unbounce.com/) as a Junior Software Developer.
+<p>👩🏻‍💻 I’m currently working [@unbounce](https://unbounce.com/) as a Junior Software Developer. </p>
 
-💽 I work using mostly:..
+<p>💽 I work using mostly: </p>
+
 <a href="#"><img src="https://github.com/brunagarcia/brunagarcia/blob/master/icons.svg" width="560px"/></a>
 
-🤔 I’m looking to learn more about:
+<p>🤔 I’m looking to learn more about:</p>
 
 - Styled Components
 - Achitecture
 - State Management
 
-📫 How to reach me: [Send me an email!](mailto:garciabrunap@gmail.com)
+<p>📫 How to reach me: <a href="mailto:garciabrunap@gmail.com">Send me an email!</a></p>
 
-🌈 Pronouns: She/Her
+<p>🌈 Pronouns: She/Her </p>
