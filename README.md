@@ -8,7 +8,6 @@
 
 <p>🤔 </br> I’m looking to learn more about:</p>
 
-- Styled Components
 - Achitecture
 - State Management
 
