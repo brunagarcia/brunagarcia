@@ -10,6 +10,7 @@
 
 - Achitecture
 - State Management
+- Recoil
 
 <p>📫 </br> How to reach me: <a href="mailto:garciabrunap@gmail.com">Send me an email!</a></p>
 
