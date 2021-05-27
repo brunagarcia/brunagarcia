@@ -10,7 +10,7 @@
 
 - Achitecture
 - State Management
-- Recoil
+- All things front-end
 
 <p>📫 </br> How to reach me: <a href="mailto:garciabrunap@gmail.com">Send me an email!</a></p>
 
