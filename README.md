@@ -1,6 +1,6 @@
 ## Oh hi, hello there 👋
 
-<p>👩🏻‍💻 </br> I’m currently working <a href="https://github.com/unbounce">@Unbounce</a> as a Junior Software Developer. </p>
+<p>👩🏻‍💻 </br> I’m currently working <a href="https://github.com/unbounce">@Unbounce</a> as a Software Developer. </p>
 
 <p>💽 </br> I work using mostly: </p>
 
