@@ -8,9 +8,8 @@
 
 <p>🤔 </br> I’m looking to learn more about:</p>
 
-- Achitecture
+- Achitecture Design 
 - State Management
-- All things front-end
 
 <p>📫 </br> How to reach me: <a href="mailto:garciabrunap@gmail.com">Send me an email!</a></p>
 
