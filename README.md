@@ -1,6 +1,6 @@
 ## Oh hi, hello there 👋
 
-<p>👩🏻‍💻 </br> I’m a Software Developer <a href="https://github.com/zestyai">@zestyAI</a></p>
+<p>👩🏻‍💻 </br> I’m a Software Developer
 
 <p>💽 </br> I work using mostly: </p>
 
